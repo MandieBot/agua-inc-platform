@@ -4,7 +4,7 @@ Welcome to the Agua Inc Platform repository! This project contains the core plat
 
 ## Overview
 
-The Agua Inc Platform is designed to provide robust, scalable infrastructure for managing and delivering essential services. This repository contains the main codebase and documentation for the platform.
+Agua Inc., a 1500 employee account. Their business is spread across 10 countries with more than 800 projects running at the same time. Agua Inc. produces water-related products and solutions for both individual consumers and business clients.
 
 ## Getting Started
 
